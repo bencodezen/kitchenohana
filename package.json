@@ -4,6 +4,8 @@
   "description": "TeamOhana Family Recipes",
   "main": "index.js",
   "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +21,8 @@
   "bugs": {
     "url": "https://gitlab.com/bencodezen/kitchenohana/issues"
   },
-  "homepage": "https://gitlab.com/bencodezen/kitchenohana#readme"
+  "homepage": "https://gitlab.com/bencodezen/kitchenohana#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
 }
