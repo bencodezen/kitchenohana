@@ -1,0 +1,23 @@
+{
+  "name": "kitchenohana",
+  "version": "0.1.0-alpha",
+  "description": "TeamOhana Family Recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/bencodezen/kitchenohana.git"
+  },
+  "keywords": [
+    "recipes",
+    "vuepress"
+  ],
+  "author": "Ben Hong <bencodezen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/bencodezen/kitchenohana/issues"
+  },
+  "homepage": "https://gitlab.com/bencodezen/kitchenohana#readme"
+}
