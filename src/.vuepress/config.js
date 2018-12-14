@@ -1,4 +1,5 @@
 module.exports = {
     title: 'Kitchen Ohana',
-    description: 'teamOhana recipes'
+    description: 'teamOhana recipes',
+    dest: 'public'
 }
